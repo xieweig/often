@@ -12,8 +12,8 @@ public class MyFrame extends JFrame {
         this.setDefaultCloseOperation(DISPOSE_ON_CLOSE);
 
         this.add(new JButton("ok1"));
-        this.add(new JButton("ok2"));
-        this.add(new JButton("ok31"));
+        this.add(new JButton("ok2dd"));
+        this.add(new JButton("ok33"));
         JScrollPane jScrollPane = new JScrollPane(new TextArea());
         this.add(jScrollPane);
 
